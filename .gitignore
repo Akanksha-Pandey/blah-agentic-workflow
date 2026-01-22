@@ -1,1 +1,7 @@
 .venv
+__pycache
+notebooks/.ipynb_checkpoints
+notebooks/*.pyc
+notebooks/__pycache__
+.vscode
+.env
